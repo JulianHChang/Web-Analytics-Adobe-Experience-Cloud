@@ -14,24 +14,24 @@
 
 ## Task: Key Metrics Report
 \
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T01-sa.jpg" height=289><br>
 <img src="images/Ch10-T01-sb.jpg" height=266><br>
 <img src="images/Ch10-T01-sc.jpg" height=399><br>
 <img src="images/Ch10-T01-sd.jpg" height=113><br>
 <img src="images/Ch10-T01-se.jpg" height=569><br>
-</div>
+</p>
 
 ---
 
 ## Task: Referring Domain and Referrers Reports
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T02-sa.jpg" height=259><br>
 <img src="images/Ch10-T02-sb.jpg" height=498><br>
 <img src="images/Ch10-T02-sc.jpg" height=407><br>
 <img src="images/Ch10-T02-sd.jpg" height=505><br>
 <img src="images/Ch10-T02-se.jpg" height=264><br>
-</div>
+</p>
 
 ----
 
@@ -41,39 +41,39 @@
     * Report: Referring domains
     * Report: Referrers and referrer types
 
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T03-sa.jpg" height=119><br>
 <img src="images/Ch10-T03-sb.jpg" height=534><br>
 <img src="images/Ch10-T03-sc.jpg" height=397><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze email marketing campaigns
     * Report: Email channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T04-sa.jpg" height=389><br>
 <img src="images/Ch10-T04-sb.jpg" height=376><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze mobile (SMS/MMS) marketing
     * Report: SMS channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T04-sa.jpg" height=389><br>
 <img src="images/Ch10-T04-sb.jpg" height=376><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze search engine marketing (organic search optimization)
     * Report: Organic search keyword performance
     * Report: Organic search engine effectiveness
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T06-sa.jpg" height=335><br>
 <img src="images/Ch10-T06-sb.jpg" height=329><br>
-</div>
+</p>
 
 ----
 
@@ -81,53 +81,53 @@
     * Report: Paid search performance
     * Report: Paid search engine effectiveness
     * Report: Paid keywords performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T07-sa.jpg" height=339><br>
 <img src="images/Ch10-T07-sb.jpg" height=373><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze social media campaigns
     * Report: Social channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T08-sa.jpg" height=311><br>
 <img src="images/Ch10-T08-sb.jpg" height=309><br>
-</div>
+</p>
 
 ----
 
 * Task: Analyze online display advertising
     * Report: Display channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T09-sa.jpg" height=299><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze affiliate marketing
     * Report: Affiliate channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T10-sa.jpg" height=324><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze internal online campaigns
     * Report: Internal banner and links performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T11-sa.jpg" height=274><br>
-</div>
+</p>
 
 ----
 
 ## Task: Understand multichannel and cross-channel visits and attribution
     * Report: Marketing channel overview
     * Campaigns report and marketing channels
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T12-sa.jpg" height=494><br>
 <img src="images/Ch10-T12-sb.jpg" height=273><br>
-</div>
+</p>
 
 
 ## Conclusion
@@ -168,13 +168,13 @@ on.
 ---
 
 ## Task: Referring Domain and Referrers Reports
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T02-sa.jpg" height=259><br>
 <img src="images/Ch10-T02-sb.jpg" height=498><br>
 <img src="images/Ch10-T02-sc.jpg" height=407><br>
 <img src="images/Ch10-T02-sd.jpg" height=505><br>
 <img src="images/Ch10-T02-se.jpg" height=264><br>
-</div>
+</p>
 
 ----
 
@@ -184,39 +184,39 @@ on.
     * Report: Referring domains
     * Report: Referrers and referrer types
 
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T03-sa.jpg" height=119><br>
 <img src="images/Ch10-T03-sb.jpg" height=534><br>
 <img src="images/Ch10-T03-sc.jpg" height=397><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze email marketing campaigns
     * Report: Email channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T04-sa.jpg" height=389><br>
 <img src="images/Ch10-T04-sb.jpg" height=376><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze mobile (SMS/MMS) marketing
     * Report: SMS channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T04-sa.jpg" height=389><br>
 <img src="images/Ch10-T04-sb.jpg" height=376><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze search engine marketing (organic search optimization)
     * Report: Organic search keyword performance
     * Report: Organic search engine effectiveness
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T06-sa.jpg" height=335><br>
 <img src="images/Ch10-T06-sb.jpg" height=329><br>
-</div>
+</p>
 
 ----
 
@@ -224,53 +224,53 @@ on.
     * Report: Paid search performance
     * Report: Paid search engine effectiveness
     * Report: Paid keywords performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T07-sa.jpg" height=339><br>
 <img src="images/Ch10-T07-sb.jpg" height=373><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze social media campaigns
     * Report: Social channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T08-sa.jpg" height=311><br>
 <img src="images/Ch10-T08-sb.jpg" height=309><br>
-</div>
+</p>
 
 ----
 
 * Task: Analyze online display advertising
     * Report: Display channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T09-sa.jpg" height=299><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze affiliate marketing
     * Report: Affiliate channel performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T10-sa.jpg" height=324><br>
-</div>
+</p>
 
 ----
 
 ## Task: Analyze internal online campaigns
     * Report: Internal banner and links performance
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T11-sa.jpg" height=274><br>
-</div>
+</p>
 
 ----
 
 ## Task: Understand multichannel and cross-channel visits and attribution
     * Report: Marketing channel overview
     * Campaigns report and marketing channels
-<div align="center">
+<p align="center">
 <img src="images/Ch10-T12-sa.jpg" height=494><br>
 <img src="images/Ch10-T12-sb.jpg" height=273><br>
-</div>
+</p>
 
 
 ## Conclusion
