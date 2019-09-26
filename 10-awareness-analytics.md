@@ -15,9 +15,13 @@
 ## Task: Key Metrics Report
 \
 <img src="images/Ch10-T01-sa.jpg" width=331><br>
+\
 <img src="images/Ch10-T01-sb.jpg" width=350><br>
+\
 <img src="images/Ch10-T01-sc.jpg" width=350><br>
+\
 <img src="images/Ch10-T01-sd.jpg" width=93><br>
+\
 <img src="images/Ch10-T01-se.jpg" width=350><br>
 
 ---
@@ -25,9 +29,13 @@
 ## Task: Referring Domain and Referrers Reports
 \
 <img src="images/Ch10-T02-sa.jpg" width=325><br>
+\
 <img src="images/Ch10-T02-sb.jpg" width=350><br>
+\
 <img src="images/Ch10-T02-sc.jpg" width=350><br>
+\
 <img src="images/Ch10-T02-sd.jpg" width=350><br>
+\
 <img src="images/Ch10-T02-se.jpg" width=332><br>
 
 ----
@@ -39,7 +47,9 @@
     * Report: Referrers and referrer types
 \
 <img src="images/Ch10-T03-sa.jpg" width=350><br>
+\
 <img src="images/Ch10-T03-sb.jpg" width=350><br>
+\
 <img src="images/Ch10-T03-sc.jpg" width=350><br>
 
 ----
@@ -48,6 +58,7 @@
     * Report: Email channel performance
 \
 <img src="images/Ch10-T04-sa.jpg" width=350><br>
+\
 <img src="images/Ch10-T04-sb.jpg" width=350><br>
 
 ----
@@ -64,6 +75,7 @@
     * Report: Organic search engine effectiveness
 \
 <img src="images/Ch10-T06-sa.jpg" width=350><br>
+\
 <img src="images/Ch10-T06-sb.jpg" width=350><br>
 
 ----
@@ -74,6 +86,7 @@
     * Report: Paid keywords performance
 \
 <img src="images/Ch10-T07-sa.jpg" width=350><br>
+\
 <img src="images/Ch10-T07-sb.jpg" width=350><br>
 
 ----
@@ -82,6 +95,7 @@
     * Report: Social channel performance
 \
 <img src="images/Ch10-T08-sa.jpg" width=350><br>
+\
 <img src="images/Ch10-T08-sb.jpg" width=350><br>
 
 ----
@@ -112,6 +126,7 @@
     * Campaigns report and marketing channels
 \
 <img src="images/Ch10-T12-sa.jpg" width=350><br>
+\
 <img src="images/Ch10-T12-sb.jpg" width=350><br>
 
 ---
@@ -121,7 +136,5 @@ Awareness reports help you validate some key information about your visitors:
 * How effective are your marketing campaigns at driving visits and
 conversion? This helps you understand the success of each channel you’re
 invested in and the portfolio of your campaign spend.
-* Which channel attributes drive the most revenue? This helps you to
-understand whether you’re bidding on the right set of keywords, affiliates, and so
-on.
+* Which channel attributes drive the most revenue? This helps you to understand whether you’re bidding on the right set of keywords, affiliates, and so on.
 * Who are the top referrers to your sites? This will give you insight into the demographics of your visitor traffic from specific referrers.

@@ -2,19 +2,17 @@
 
 ### Conversion data offers a view into the monetary impact of marketing and technology decisions. The results are of interest to all levels of the organization, particularly decision-makers. They offer the nuts and bolts of site performance and help you target visitors and turn casual browsers into buyers/customers.
 
-
 ---
 
 ## The Conversion Funnel reports illustrate the process of conversion with beginning, ending, and milestone events represented.
-    * Conversion reports are customizable, so you can add custom conversion events. The conversion reports track your ability to achieve macro goals. Macro goals are actions on your website (such as purchasing a product, servicing a request, or signing up for a mailer) that allow you to achieve business objectives.
-
-
-<div align="center">
-<img src="images/Ch50-T00-sa.jpg" height=237><br>
-<img src="images/Ch50-T00-sb.jpg" height=263><br>
-<img src="images/Ch50-T00-sc.jpg" height=308><br>
-</div>
-
+### Conversion reports are customizable, so you can add custom conversion events. The conversion reports track your ability to achieve macro goals. Macro goals are actions on your website (such as purchasing a product, servicing a request, or signing up for a mailer) that allow you to achieve business objectives.
+\
+\
+<img src="images/Ch50-T00-sa.jpg" width=350><br>
+\
+<img src="images/Ch50-T00-sb.jpg" width=350><br>
+\
+<img src="images/Ch50-T00-sc.jpg" width=350><br>
 
 ---
 
@@ -23,13 +21,16 @@
     * Report: Understand revenue
     * Report: Understand orders
     * Report: Units
-<div align="center">
-<img src="images/Ch50-T01-sa.jpg" height=263><br>
-<img src="images/Ch50-T01-sb.jpg" height=358><br>
-<img src="images/Ch50-T01-sc.jpg" height=559><br>
-<img src="images/Ch50-T01-sd.jpg" height=619><br>
-<img src="images/Ch50-T01-se.jpg" height=472><br>
-</div>
+\
+<img src="images/Ch50-T01-sa.jpg" width=350><br>
+\
+<img src="images/Ch50-T01-sb.jpg" width=350><br>
+\
+<img src="images/Ch50-T01-sc.jpg" width=350><br>
+\
+<img src="images/Ch50-T01-sd.jpg" width=350><br>
+\
+<img src="images/Ch50-T01-se.jpg" width=350><br>
 
 ---
 
@@ -40,12 +41,14 @@
     * Report: Understand number of cart additions
     * Report: Understand number of cart removals
     * Report: Understand number of checkouts
-<div align="center">
-<img src="images/Ch50-T02-sa.jpg" height=328><br>
-<img src="images/Ch50-T02-sb.jpg" height=423><br>
-<img src="images/Ch50-T02-sc.jpg" height=346><br>
-<img src="images/Ch50-T02-sd.jpg" height=412><br>
-</div>
+\
+<img src="images/Ch50-T02-sa.jpg" width=350><br>
+\
+<img src="images/Ch50-T02-sb.jpg" width=350><br>
+\
+<img src="images/Ch50-T02-sc.jpg" width=350><br>
+\
+<img src="images/Ch50-T02-sd.jpg" width=350><br>
 
 ---
 
@@ -54,20 +57,20 @@
     * Report: Understand products
     * Report: Understand product cross-sell
     * Report: Understand product categories
-<div align="center">
-<img src="images/Ch50-T03-sa.jpg" height=599><br>
-<img src="images/Ch50-T03-sb.jpg" height=505><br>
-<img src="images/Ch50-T03-sc.jpg" height=397><br>
-</div>
+\
+<img src="images/Ch50-T03-sa.jpg" width=350><br>
+\
+<img src="images/Ch50-T03-sb.jpg" width=350><br>
+\
+<img src="images/Ch50-T03-sc.jpg" width=350><br>
 
 ---
 
 ## Task: Manage macroconversions and microconversions (custom events)
     * Report: Review conversion funnel fulfillment and abandonment
     * Report: Review form fulfillment and abandonment
-<div align="center">
-<img src="images/Ch50-T04-sd.jpg" height=320><br>
-</div>
+\
+<img src="images/Ch50-T04-sd.jpg" width=350><br>
 
 ---
 

@@ -9,12 +9,12 @@
 ## Task: Manage visitor experience
     * Report: Understand page not found errors
     * Report: Understand single page visits
-
-<div align="center">
-<img src="images/Ch30-T01-sa.jpg" height=658><br>
-<img src="images/Ch30-T01-sb.jpg" height=297><br>
-<img src="images/Ch30-T01-sc.jpg" height=678><br>
-</div>
+\
+<img src="images/Ch30-T01-sa.jpg" width=350><br>
+\
+<img src="images/Ch30-T01-sb.jpg" width=350><br>
+\
+<img src="images/Ch30-T01-sc.jpg" width=350><br>
 
 ---
 
@@ -24,11 +24,12 @@
     * Report: Analyze pages
     * Report: Analyze visit trends
     * Report: Analyze visit trends by hierarchy
-<div align="center">
-<img src="images/Ch30-T02-sa.jpg" height=619><br>
-<img src="images/Ch30-T02-sb.jpg" height=340><br>
-<img src="images/Ch30-T02-sc.jpg" height=356><br>
-</div>
+\
+<img src="images/Ch30-T02-sa.jpg" width=350><br>
+\
+<img src="images/Ch30-T02-sb.jpg" width=350><br>
+\
+<img src="images/Ch30-T02-sc.jpg" width=350><br>
 
 ---
 
@@ -38,11 +39,12 @@
     * Report: Analyze video detail
     * Report: Analyze video events
     * Report: Analyze video variables
-<div align="center">
-<img src="images/Ch30-T03-sa.jpg" height=361><br>
-<img src="images/Ch30-T03-sb.jpg" height=392><br>
-<img src="images/Ch30-T03-sc.jpg" height=220><br>
-</div>
+\
+<img src="images/Ch30-T03-sa.jpg" width=350><br>
+\
+<img src="images/Ch30-T03-sb.jpg" width=350><br>
+\
+<img src="images/Ch30-T03-sc.jpg" width=350><br>
 
 ---
 
@@ -57,11 +59,12 @@
     * Report: Analyze reloads
     * Report: Analyze time spent on page
     * Report: Analyze clicks to page
-<div align="center">
-<img src="images/Ch30-T04-sa.jpg" height=337><br>
-<img src="images/Ch30-T04-sb.jpg" height=454><br>
-<img src="images/Ch30-T04-sc.jpg" height=244><br>
-</div>
+\
+<img src="images/Ch30-T04-sa.jpg" width=350><br>
+\
+<img src="images/Ch30-T04-sb.jpg" width=350><br>
+\
+<img src="images/Ch30-T04-sc.jpg" width=350><br>
 
 ---
 
@@ -69,9 +72,8 @@
     * Report: Analyze entry pages
     * Report: Analyze original entry pages
     * Report: Analyze exit pages
-<div align="center">
-<img src="images/Ch30-T05-sa.jpg" height=300><br>
-</div>
+\
+<img src="images/Ch30-T05-sa.jpg" width=350><br>
 
 ---
 
@@ -79,10 +81,8 @@
     * Report: Analyze custom links
     * Report: Analyze downloads
     * Report: Analyze exit links
-<div align="center">
-<img src="images/Ch30-T06-sa.jpg" height=254><br>
-</div>
-
+\
+<img src="images/Ch30-T06-sa.jpg" width=350><br>
 
 ---
 
