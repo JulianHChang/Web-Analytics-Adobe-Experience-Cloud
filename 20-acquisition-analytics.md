@@ -9,14 +9,14 @@
 ##  Task: Understand visits
     * Report: Analyze total visits
 <div align="center">
-    <img src="images/Ch20-T01-sa.jpg" height=324><br>
-    <img src="images/Ch20-T01-sb.jpg" height=267><br>
-    <img src="images/Ch20-T01-sc.jpg" height=176><br>
-    <img src="images/Ch20-T01-sd.jpg" height=238><br>
-    <img src="images/Ch20-T01-se.jpg" height=285><br>
-    <img src="images/Ch20-T01-sf.jpg" height=286><br>
-    <img src="images/Ch20-T01-sg.jpg" height=411><br>
-    <img src="images/Ch20-T01-sh.jpg" height=432><br>
+<img src="images/Ch20-T01-sa.jpg" height=324><br>
+<img src="images/Ch20-T01-sb.jpg" height=267><br>
+<img src="images/Ch20-T01-sc.jpg" height=176><br>
+<img src="images/Ch20-T01-sd.jpg" height=238><br>
+<img src="images/Ch20-T01-se.jpg" height=285><br>
+<img src="images/Ch20-T01-sf.jpg" height=286><br>
+<img src="images/Ch20-T01-sg.jpg" height=411><br>
+<img src="images/Ch20-T01-sh.jpg" height=432><br>
 </div>
 
 ---
@@ -30,11 +30,11 @@
     * Report: Analyze quarterly unique visitors
     * Report: Analyze yearly unique visitors
 <div align="center">
-    <img src="images/Ch20-T02-sa.jpg" height=268><br>
-    <img src="images/Ch20-T02-sb.jpg" height=525><br>
-    <img src="images/Ch20-T02-sc.jpg" height=580><br>
-    <img src="images/Ch20-T02-sd.jpg" height=416><br>
-    <img src="images/Ch20-T02-se.jpg" height=443><br>
+<img src="images/Ch20-T02-sa.jpg" height=268><br>
+<img src="images/Ch20-T02-sb.jpg" height=525><br>
+<img src="images/Ch20-T02-sc.jpg" height=580><br>
+<img src="images/Ch20-T02-sd.jpg" height=416><br>
+<img src="images/Ch20-T02-se.jpg" height=443><br>
 </div>
 
 ---
@@ -44,10 +44,10 @@
     * Report: Analyze preferred time zones
 
 <div align="center">
-    <img src="images/Ch20-T03-sa.jpg" height=356><br>
-    <img src="images/Ch20-T03-sb.jpg" height=579><br>
-    <img src="images/Ch20-T03-sc.jpg" height=289><br>
-    <img src="images/Ch20-T03-sd.jpg" height=365><br>
+<img src="images/Ch20-T03-sa.jpg" height=356><br>
+<img src="images/Ch20-T03-sb.jpg" height=579><br>
+<img src="images/Ch20-T03-sc.jpg" height=289><br>
+<img src="images/Ch20-T03-sd.jpg" height=365><br>
 </div>
 
 ---
@@ -55,7 +55,7 @@
 ##  Task: Understand visitor demographics
     * Report: Analyze visitor demographics
 <div align="center">
-    <img src="images/Ch20-T03a-sd.jpg" height=350><br>
+<img src="images/Ch20-T03a-sd.jpg" height=350><br>
 </div>
 
 ---
@@ -64,8 +64,8 @@
     * Report: Analyze domains
     * Report: Analyze top-level domains
 <div align="center">
-    <img src="images/Ch20-T04-sa.jpg" height=406><br>
-    <img src="images/Ch20-T04-sb.jpg" height=130><br>
+<img src="images/Ch20-T04-sa.jpg" height=406><br>
+<img src="images/Ch20-T04-sb.jpg" height=130><br>
 </div>
 
 ---

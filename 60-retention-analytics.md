@@ -7,8 +7,8 @@
 * How often a does a customer make a purchase?
 * How frequently does a customer make a purchase?
 <div align="center">
-    <img src="images/Ch60-T01-sa.jpg" height=302><br>
-    <img src="images/Ch60-T01-sb.jpg" height=480><br>
+<img src="images/Ch60-T01-sa.jpg" height=302><br>
+<img src="images/Ch60-T01-sb.jpg" height=480><br>
 </div>
 
 
@@ -18,8 +18,8 @@
 ## Task: Understand recency
   * Report: Understand days before first purchase
 <div align="center">
-    <img src="images/Ch60-T01-sa.jpg" height=302><br>
-    <img src="images/Ch60-T01-sb.jpg" height=480><br>
+<img src="images/Ch60-T01-sa.jpg" height=302><br>
+<img src="images/Ch60-T01-sb.jpg" height=480><br>
 </div>
 
 
@@ -31,10 +31,10 @@
   * Report: Understand daily return visits
   * Report: Understand unique customers
 <div align="center">
-    <img src="images/Ch60-T02-sa.jpg" height=489><br>
-    <img src="images/Ch60-T02-sb.jpg" height=411><br>
-    <img src="images/Ch60-T02-sc.jpg" height=320><br>
-    <img src="images/Ch60-T02-sd.jpg" height=322><br>
+<img src="images/Ch60-T02-sa.jpg" height=489><br>
+<img src="images/Ch60-T02-sb.jpg" height=411><br>
+<img src="images/Ch60-T02-sc.jpg" height=320><br>
+<img src="images/Ch60-T02-sd.jpg" height=322><br>
 </div>
 ---
 
@@ -42,8 +42,8 @@
   * Report: Understand customer loyalty
   * Report: Understand visit number
 <div align="center">
-    <img src="images/Ch60-T03-sa.jpg" height=413><br>
-    <img src="images/Ch60-T03-sb.jpg" height=468><br>
+<img src="images/Ch60-T03-sa.jpg" height=413><br>
+<img src="images/Ch60-T03-sb.jpg" height=468><br>
 </div>
  
 
